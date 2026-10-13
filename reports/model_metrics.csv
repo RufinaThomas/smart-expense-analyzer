@@ -1,0 +1,2 @@
+Model,Accuracy,Macro-F1,Training Records,Testing Records
+Transaction amount only,0.4806,0.47242776303956296,40000,10000
